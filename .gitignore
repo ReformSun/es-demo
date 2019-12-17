@@ -1,0 +1,13 @@
+
+.classpath
+.idea
+.metadata
+.settings
+.project
+.version.properties
+target
+*.class
+*.iml
+*.swp
+*.jar
+*.log
